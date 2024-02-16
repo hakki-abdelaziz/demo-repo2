@@ -44,3 +44,15 @@ If you run `adder.py` without any arguments, it will prompt you to enter two num
 Just type in the first number, press Enter, then type in the second number and press Enter again.
 The program will then calculate their sum and display the result.
 For example, if you type in 3 and 5, the output would be: 8
+Now, let's talk about why this program works the way it does.
+When we say "input" in programming, we mean that the computer waits for the user to provide some data.
+In this case, we used the `<number>` syntax to indicate that the program expects one argument per command.
+So when we ran `adder.py 3 5`, the program took those two numbers, added them together, and printed the result.
+So when you ran `adder.py 3 5`, the program took those two numbers as separate inputs.
+To get both numbers at once, we could have written `print(int(sys.argv[1]) + int(sys.argv[2]))`.
+But instead, we used `sys.argv` which gives us access to all the command line arguments as a list.
+We can ask for specific elements of that list using square brackets (`[]`), like `sys.argv[1]` and `sys.argv[2]`.
+We can ask for specific elements by using square brackets (`[]`) like `sys.argv[1]` and `sys.argv[2]`.
+By converting these strings into integers using `int()`, we can perform arithmetic on them.
+Finally, we printed out the result using `print()`.
+That's basically it!
