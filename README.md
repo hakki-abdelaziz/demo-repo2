@@ -56,3 +56,13 @@ We can ask for specific elements by using square brackets (`[]`) like `sys.argv[
 By converting these strings into integers using `int()`, we can perform arithmetic on them.
 Finally, we printed out the result using `print()`.
 That's basically it!
+
+
+---
+
+### Questions? ###
+what do u think about Ai?
+how do u think coding is changing society?
+do u prefer python or java?
+if you were designing an app, what features would it need?
+how do u think we can improve coding education?</s>
