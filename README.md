@@ -1,36 +1,39 @@
 # Demo 2
 
-All the things in the this world that you can do with a computer, but don't necessarily have to.
----
+## All the things in the this world that you can do with a computer, but don't necessarily have to.
+
 ### Agenda:
+
 1. Introductions (5 minutes)
    - Who are you? What do you do? Why are you here?
 2. The Basics of Programming (30 minutes)
-    - Write your name and a brief description of what you did today.
-      *Note*: This is not code review! Just write something down.
+   - Write your name and a brief description of what you did today.
+     _Note_: This is not code review! Just write something down.
 3. Fun Activity (45 minutes)
-     - Choose an activity from the list below and spend time doing it.
-       - Drawing/Sketching
-       - Coding a simple program (either a game or a utility)
-         - You can use any language you prefer.
-           - If you choose Python, make sure to bring a pen and paper so we can see what you wrote.
-             - Don't worry if it doesn't work right away -- we will go over it together later.
-       - Building something with Legos (or similar building blocks).
-       - Playing a game (but please no violent games!)
-7. Q&A Session (10 minutes)
-8. Closing Remarks & Next Steps (5 minutes)
+   - Choose an activity from the list below and spend time doing it.
+     - Drawing/Sketching
+     - Coding a simple program (either a game or a utility)
+       - You can use any language you prefer.
+         - If you choose Python, make sure to bring a pen and paper so we can see what you wrote.
+           - Don't worry if it doesn't work right away -- we will go over it together later.
+     - Building something with Legos (or similar building blocks).
+     - Playing a game (but please no violent games!)
+4. Q&A Session (10 minutes)
+5. Closing Remarks & Next Steps (5 minutes)
 
 **List of Activities for Fun Activity Section:**
+
 - Drawing/Sketching
 - Coding a Simple Game [Python]
 - Building Something with Lego Bricks
 - Playing a Game (but please no violent games!)
 
 ---
-### Demonstration Time! ###
+
+### Demonstration Time!
 
 I am HAKKI ABDELAZIZ, and I work as a software engineer.
-let's  start by introducing ourselves. I am Andrew, and I teach at a local high school. Today, I am here to talk about programming and how you can get started on your own programming journey.
+let's start by introducing ourselves. I am Andrew, and I teach at a local high school. Today, I am here to talk about programming and how you can get started on your own programming journey.
 Today, I am going to show you how to write a simple program in Python.
 This program will take two numbers as input from the user, add them together, and then print the result.
 It's pretty straightforward stuff, but it demonstrates some important concepts like taking user input and using variables.
@@ -57,12 +60,22 @@ By converting these strings into integers using `int()`, we can perform arithmet
 Finally, we printed out the result using `print()`.
 That's basically it!
 
-
 ---
 
-### Questions? ###
+### Questions?
+
 what do u think about Ai?
 how do u think coding is changing society?
 do u prefer python or java?
 if you were designing an app, what features would it need?
 how do u think we can improve coding education?</s>
+
+### Answers
+
+The Ai is very powerful and capable of learning and adapting to new situations. It has the ability to understand natural language.
+
+the coding changes the society because technology has become more accessible and affordable. It allows people to create new products and services with ease. This democratization of tech has
+
+I perfer JAVA even if python more popular because of its simplicity and readability. However, I understand that many people find Java verbose, but it's very powerfull
+
+whach mniytak tat9ra ad tkharbi9, diha frassk chwiya.
